@@ -1,0 +1,10 @@
+[bloodhound]
+bh_url=http://localhost:9000
+username=user
+secret=password
+
+[ghostwriter]
+gw_url=http://localhost:8080
+report_id=11
+api_token=eyJhbGciOiJIUzI1NiI...
+bhce_field_name=bhce_data
